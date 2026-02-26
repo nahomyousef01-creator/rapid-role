@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> @/components/UKMap\":{\"id\":\"app/page.tsx -> @/components/UKMap\",\"files\":[\"static/chunks/_app-pages-browser_src_components_UKMap_tsx.js\"]},\"components/UKMap.tsx -> leaflet\":{\"id\":\"components/UKMap.tsx -> leaflet\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_leaflet_dist_leaflet-src_js.js\"]}}"
